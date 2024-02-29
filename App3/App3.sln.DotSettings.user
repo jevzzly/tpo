@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0f603a07_002D093e_002D46f8_002Dae97_002D216b9388ba72/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestStatusCode" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::E35AC2C5-C7F9-4F98-A08D-D8D35D2561D7::.NETFramework,Version=v4.7.2::App3.TestClass.TestStatusCode&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1ebcfafc_002D8833_002D4581_002D9cc7_002D92b9f137cb23/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestStatusCode #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::E35AC2C5-C7F9-4F98-A08D-D8D35D2561D7::.NETFramework,Version=v4.7.2::App3.TestClass.TestStatusCode&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=41ddc1cd_002D707d_002D4094_002D90ae_002D95b95e9d4f4e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PetTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::E35AC2C5-C7F9-4F98-A08D-D8D35D2561D7::.NETFramework,Version=v4.7.2::App3.PetTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d12e50d4_002Dc8ec_002D488f_002D9498_002D5248d13e2028/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestClass" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::E35AC2C5-C7F9-4F98-A08D-D8D35D2561D7::.NETFramework,Version=v4.7.2::App3.TestClass&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
